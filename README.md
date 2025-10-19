@@ -15,8 +15,6 @@
 
 ## 📊 GitHub Stats
 
-![AdepuSanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdepuSanjay&show_icons=true&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AdepuSanjay&theme=radical&hide_border=true)
 
 </div>
