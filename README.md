@@ -1,12 +1,5 @@
 
 
-## GitHub Analytics
-
-| | |
-|---|---|
-| **☆ Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/AdepuSanjay?style=flat) | **○ Total Commits (2024):** ![Commits](https://img.shields.io/github/commit-activity/y/AdepuSanjay) |
-| **♦ Total PRs:** ![PRs](https://img.shields.io/github/issues-pr/AdepuSanjay) | **○ Total Issues:** ![Issues](https://img.shields.io/github/issues/AdepuSanjay) |
-| **☐ Contributed to (2024):** ![Contributions](https://img.shields.io/github/contributions/AdepuSanjay) | |
 
 ## Most Used Languages
 
